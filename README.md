@@ -178,5 +178,5 @@ Server will run at: `http://localhost:4000`
 
 ## Contact
 📩 **Email:** rajvikash.r2022cse@sece.ac.in   
-📂 **GitHub:** [your-username](https://github.com/Rajvikash2)
+📂 **GitHub:** https://github.com/Rajvikash2
 
